@@ -1,6 +1,6 @@
 /*
     Devuelve true si la cadena pasada concuerda con un número de teléfono válido en Estados Unidos.
-    El usuario puede completar el campo del formulario de la forma que elija, siempre que tenga el formato de un número estadounidense válido. Los siguientes ejemplos son de formatos válidos para números estadounidenses:
+    El usuario puede completar el campo del formulario de la forma que elija, siempre que tenga el formato de un número estadounidense válido. Los siguientes ejemplos son de formatos válidos para números estadounidenses telefonico:
     555-555-5555
     (555)555-5555
     (555) 555-5555
